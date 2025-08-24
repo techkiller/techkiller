@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Pankaj Kumar  
 
 🚀 **IT Manager & Full Stack Web Developer** | 🌍 Open to Remote & Onsite Opportunities  
