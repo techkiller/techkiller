@@ -8,7 +8,7 @@ I build scalable web applications, craft modern UIs, and manage full-cycle devel
 
 ## 🧑‍💻 About Me  
 - 💼 Freelance Full Stack Web Developer (Remote, USA) — 2+ years of production-grade project experience  
-- 🏢 Ex-**Ybi Softech** (PHP Developer) & **DigiQual Technologies** (Backend Developer)  
+- 🏢 Ex-**Ybi Softech** (PHP Developer) 1.5 Years & **DigiQual Technologies** (Backend Developer) 1 Year  
 - 🌱 Currently mastering **JAVA & Spring Boot Full Stack** for future-ready solutions  
 - 🤝 Passionate about mentoring, teamwork, and solving complex challenges  
 
@@ -39,8 +39,8 @@ I build scalable web applications, craft modern UIs, and manage full-cycle devel
 ## 📫 Contact Me  
 📧 **Email:** pankajjaangir@gmail.com
     **Phone**: +91-8302933088
-💼 **LinkedIn:** linkedin.com/in/ 
-🌐 **Portfolio:** 
+💼 **LinkedIn:** https://www.linkedin.com/in/pankaj-kumar-387642140
+🌐 **Portfolio:** techkiller-dev.vercel.app
 
 ---
 
